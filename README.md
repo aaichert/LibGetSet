@@ -12,6 +12,8 @@ GetSet decouples your application logic from its interface. Define your paramete
 - **Python Bindings**: Planned support for Python scripting and automation
 - **Custom Frontends**: Add your own UI layer without touching your algorithm
 
+![GetSetExample.png](GetSetExample.png)
+
 ## Key Features
 
 - **Header-Only Core**: Minimal dependencies for maximum portability
